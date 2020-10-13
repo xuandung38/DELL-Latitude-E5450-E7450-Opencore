@@ -16,27 +16,27 @@ Kext : all updated
 |Input:|Keyboard Standard PS/2 KeyboardMouse HID-compliant mouseMouse PS/2 Compatible Mouse|
 |Network:| Broadcom 802.11ac Wireless PCIE Full Dongle Adapter (DELL DW1820A bcm94350zae)|
 
+#What's Work?
 
-| #What's Work? | 
-|--------------------------------------------------------------|
-|  GPU acceleration|
-|  Sleeping and wake|
-|  ALL USB 3.0 and 2.0|
-|  DSDT patch|
-|  WiFi (DW 1560,1820A,1830....Boardcom brand)|
-|  Location services|
-|  SD card reader|
-|  Webcam|
-|  HDMI out|
-|  Built in Bluetooth|
-|  Track pad,keyboard and any guesture|
-|  Speaker, mic , line out, headphone|
-|  Baterry indicator,hotkey volume ,brightnes change, etc.....|
+| #Function | Work? |
+|---------------|-----------------------------------------------|
+|  GPU acceleration| ✅ |
+|  Sleeping and wake| ✅ |
+|  ALL USB 3.0 and 2.0| ✅ |
+|  DSDT patch| ✅ |
+|  WiFi (DW 1560,1820A,1830....Boardcom brand)| ✅ |
+|  Location services| ✅ |
+|  SD card reader| ✅ |
+|  Webcam| ✅ |
+|  HDMI out| ✅ |
+|  Built in Bluetooth| ✅ |
+|  Track pad,keyboard and any guesture| ✅ |
+|  Speaker, mic , line out, headphone| ✅ |
+|  Baterry indicator,hotkey volume ,brightnes change, etc.....| ✅ |
 
 
 #Not working:
-
-✅ You tell me
+-You tell me
 
 
 Thank to @[Bình Minh](https://www.facebook.com/groups/vnohackintosh/permalink/3441630992550461/)
