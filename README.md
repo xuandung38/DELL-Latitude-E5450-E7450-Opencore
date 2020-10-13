@@ -38,3 +38,5 @@ Kext : all updated
 
 ✅ You tell me
 
+
+Thank to @[Bình Minh](https://www.facebook.com/groups/vnohackintosh/permalink/3441630992550461/)
