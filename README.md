@@ -35,4 +35,4 @@ What's Work?
 |Storage:|Disk Drive Samsung SSD 860 EVO 500GB (500 GB, SATA-III)|
 |Input:|Keyboard Standard PS/2 KeyboardMouse HID-compliant mouseMouse PS/2 Compatible Mouse|
 |Network:| Broadcom 802.11ac Wireless PCIE Full Dongle Adapter (DELL DW1820A bcm94350zae)|
-|--------------------------------------------------------------|
+|-----------|---------------------------------------------------|
